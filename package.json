@@ -1,0 +1,24 @@
+{
+  "name": "googleforms",
+  "version": "1.0.0",
+  "description": "A response collector for me in typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithpom/googleforms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithpom/googleforms/issues"
+  },
+  "homepage": "https://github.com/codewithpom/googleforms#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.12.1",
+    "typescript": "^4.4.4"
+  }
+}
